@@ -1,17 +1,3 @@
-# Fresh project
+Practica realizada por Lara González Abad y Raúl Cid González.
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
-
-### Usage
-
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
-
-Then start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
-# P3_PROGRAMACION_DE_INTERFACES_WEB
+Nota: Seguimos el guion de práctica aunque por tema de tamaños nos parecía pequeño como para verlo aunque al final lo hemos mantenido.
